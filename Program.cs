@@ -6,8 +6,11 @@ namespace LineComparisonUsingOOPS
     {
         static void Main(string[] args)
         {
-            CalculateLengthOfLine calculate = new CalculateLengthOfLine();
-            calculate.LengthOfLine();
+            //CalculateLengthOfLine calculate = new CalculateLengthOfLine();
+            //calculate.LengthOfLine();
+
+            EqualityOfTwoLines equality = new EqualityOfTwoLines();
+            equality.CheckEqualityOfTwoLines();
         }
     }
 }
