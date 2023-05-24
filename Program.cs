@@ -9,8 +9,11 @@ namespace LineComparisonUsingOOPS
             //CalculateLengthOfLine calculate = new CalculateLengthOfLine();
             //calculate.LengthOfLine();
 
-            EqualityOfTwoLines equality = new EqualityOfTwoLines();
-            equality.CheckEqualityOfTwoLines();
+            //EqualityOfTwoLines equality = new EqualityOfTwoLines();
+            //equality.CheckEqualityOfTwoLines();
+
+            ComparisonOfLines comparison = new ComparisonOfLines();
+            comparison.CheckComparisonOfLines();
         }
     }
 }
